@@ -16,7 +16,7 @@
 
 </p>
 
-# Patlayıcı Etki Analizi Simülasyon Yazılımının Geliştirilmesi ve Basınç Dalgası Parametrelerinin Derin Öğrenme ile Tahmin Edilmesi1
+# Patlayıcı Etki Analizi Simülasyon Yazılımının Geliştirilmesi ve Basınç Dalgası Parametrelerinin Derin Öğrenme ile Tahmin Edilmesi
 
 Bu çalışmadaki amaç patlama sonucunda meydana gelen yüksek basınç dalgasını modelleyen bir simülasyon yazılımı geliştirmek ve bu simülasyon
 yazılımından elde edilen veri setini kullanarak derin sinir ağı ile basınç dalgası parametrelerini tahmin etmektir. Geliştirilen simülasyon yazılımı
