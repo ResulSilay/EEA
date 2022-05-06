@@ -16,6 +16,10 @@
 
 </p>
 
+<a href="/doc/video/EEA.mp4" target="_blank">
+<img src="/doc/img/player.png"/>
+</a>
+
 # Patlayıcı Etki Analizi Simülasyon Yazılımının Geliştirilmesi ve Basınç Dalgası Parametrelerinin Derin Öğrenme ile Tahmin Edilmesi1
 
 Bu çalışmadaki amaç patlama sonucunda meydana gelen yüksek basınç dalgasını modelleyen bir simülasyon yazılımı geliştirmek ve bu simülasyon
