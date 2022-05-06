@@ -7,7 +7,7 @@
 </a>
 
 <a href="/doc/pdf/Report.pdf" target="_blank">
-<img src="https://img.shields.io/badge/2242%20Tübitak%20Report-e53a25?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2242%20TÜBİTAK%20Report-e53a25?style=for-the-badge"/>
 </a>
 
 <a href="/doc/bin" target="_blank">
