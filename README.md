@@ -1,6 +1,11 @@
 <p align="center">
+  
+<a href="https://dergipark.org.tr/en/pub/dubited/issue/67474/1014063" target="_blank">
+<img src="https://img.shields.io/badge/Duzce%20University%20Journal%20of%20Science%20and%20Technology%20Article-21296e?style=for-the-badge"/>
+</a>
+  
 <a href="/doc/pdf/Report.pdf" target="_blank">
-<img src="https://img.shields.io/badge/2242-Tübitak%20Report-f12f35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2242%20Tübitak%20Report-e53a25?style=for-the-badge"/>
 </a>
 
 <a href="/doc/bin" target="_blank">
